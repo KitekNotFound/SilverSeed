@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 ticket_bot.py
